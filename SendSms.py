@@ -1,5 +1,5 @@
 import pywhatkit as kit
 
-phoneNumber="+905063810744"
+phoneNumber="+900000000"
 
 kit.sendwhatmsg(phoneNumber, "helloWorld", 22, 27)
